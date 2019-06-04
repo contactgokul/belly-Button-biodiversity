@@ -7,5 +7,5 @@ analysis. Technologies used: HTML/CSS/Bootstrap, JavaScript Library Plotly, Pyth
 
 Also completed the plotting for the Weekly Washing Frequency
 
-# Deployed the Flask app to Heroku
+# Deployed the app to Heroku
 https://belly-button-biodiversity-sgs.herokuapp.com/
