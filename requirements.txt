@@ -1,9 +1,2 @@
 click==6.7
-Flask==1.0.2gunicorn==19.9.0
-Flask-SQLAlchemy==2.4.0
-itsdangerous==1.1.0
-Jinja2==2.10
-MarkupSafe==1.1.1
-numpy==1.16.2pandas==0.24.2
-python-dateutil==2.8.0pytz==2018.9
-six==1.12.0SQLAlchemy==1.3.1Werkzeug==0.14.1
+Flask==1.0.2gunicorn==19.8.1itsdangerous==0.24Jinja2==2.10.1MarkupSafe==1.0Werkzeug==0.14.1SQLAlchemy==1.1.13numpy==1.15.1pandas==0.23.4Flask-SQLAlchemy==2.3.2
